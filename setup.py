@@ -8,8 +8,8 @@ REQUIRED = [
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 setuptools.setup(
-    name="lambdata_alfaroqueIslam",
-    version="0.0.2",
+    name="lambdata-alfaroqueIslam",
+    version="0.0.1",
     author="Alfaroque Islam",
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
